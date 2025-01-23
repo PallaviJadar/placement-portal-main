@@ -36,39 +36,21 @@ The Placement Management System is a web application for the training and  place
 - PHP
 - Mysql
 
-
-
-
-
-
-
-
-
-
-
 # PROJECT SNAPSHOTS
 
-- Home Page
+- Home Page ![Screenshot (29)](https://github.com/user-attachments/assets/30590477-6cc5-4cab-8ea2-7e689e85b576)
 
+- Registration Page For Students and Companies ![Screenshot (34)](https://github.com/user-attachments/assets/18a769bc-017f-4797-a2a1-5d31b2f1402a)
 
-- Registration Page For Students and Companies
-
+- Login Page ![Screenshot (41)](https://github.com/user-attachments/assets/58f93714-4aa3-4ff6-bdfc-f880dca93602)
  
- - Login Page
- 
+-Admin Login ![Screenshot (34)](https://github.com/user-attachments/assets/cf35f832-3769-4ac7-b9f4-c0ee70ced8aa)
 
+-Admin dashboard ![Screenshot (35)](https://github.com/user-attachments/assets/bc2aede7-03e1-4a02-93f8-d8627e64b4a5)
 
-Admin Login
+-coordinator dashboard ![Screenshot (44)](https://github.com/user-attachments/assets/9fea51e3-c6c0-48b2-8ef0-338fe6df0a58)
 
-
-Admin dashboard
-
-
-coordinator dashboard
-
-
-- contact us
-
+- contact us ![Screenshot (48)](https://github.com/user-attachments/assets/8b16b83e-bec9-4dfa-9291-e5daa483b942)
 
 <br>
 GETTING STARTED
@@ -83,7 +65,7 @@ OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
 
-ii> git clone 
+ii> git clone https://github.com/PallaviJadar/Placement-Portal.git
 
 4. Extract files in C:\xampp\htdocs.
 
