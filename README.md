@@ -79,7 +79,7 @@ ii> git clone https://github.com/PallaviJadar/Placement-Portal.git
 
 9. Browse the file in directory [placement-portal/database/db1.sql].
 
-10. Open any browser and type http://localhost/placement-portal.
+10. Open any browser and type http://localhost/Placement-portal-main/.
 
 
 
