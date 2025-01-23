@@ -40,7 +40,7 @@ The Placement Management System is a web application for the training and  place
 
 - Home Page ![Screenshot (29)](https://github.com/user-attachments/assets/30590477-6cc5-4cab-8ea2-7e689e85b576)
 
-- Registration Page For Students and Companies ![Screenshot (34)](https://github.com/user-attachments/assets/18a769bc-017f-4797-a2a1-5d31b2f1402a)
+- Registration Page For Students and Companies ![Screenshot (49)](https://github.com/user-attachments/assets/ee2c7528-1e45-4b8a-a3bc-4e314093dab0)
 
 - Login Page ![Screenshot (41)](https://github.com/user-attachments/assets/58f93714-4aa3-4ff6-bdfc-f880dca93602)
  
