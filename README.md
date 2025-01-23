@@ -120,15 +120,3 @@ ii> git clone
 
 
 
-### Team Member
-
-- [Atinder Kumar](https://github.com/atinder11)
-
-- [Suyash Rawat](https://github.com/SuyashRawat)
-
-- [Jatin Tagore](https://github.com/jazz1706)
-
-
-=======
-# Placement-Portal
->>>>>>> f4cb7c54683831bc81c7eb8ece91841fd296b51c
