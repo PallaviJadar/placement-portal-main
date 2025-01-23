@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inhouse Competition - JIIT Optica Student Chapter
 ## Topic-College Realted
 
@@ -151,3 +152,6 @@ ii> git clone https://github.com/atinder11/Placement-Portal
 - [Jatin Tagore](https://github.com/jazz1706)
 
 
+=======
+# Placement-Portal
+>>>>>>> f4cb7c54683831bc81c7eb8ece91841fd296b51c
