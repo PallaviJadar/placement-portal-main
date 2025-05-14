@@ -1,5 +1,18 @@
-<<<<<<< HEAD
-## Topic-College Realted
+# Career Catalyst – Placement Portal 🎓💼
+
+A web-based placement management system for colleges and students.
+
+🚀 **Live Demo**: [Career Catalyst – Placement Portal](https://placementportal.free.nf/)
+
+## Features
+- Student registration and profile management
+- Company job postings and shortlisting
+- Admin dashboard and analytics
+- Real-time updates and role-based access
+
+## Tech Stack
+- PHP, MySQL
+- HTML, CSS, JavaScript
 
 ## Career Catalyst
 
